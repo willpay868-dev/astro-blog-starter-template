@@ -1,5 +1,4 @@
-{
-  // Optimized form handler with performance enhancements
+// Optimized form handler with performance enhancements
 (function() {
   const WORKER_URL = 'https://itc-backend.your-subdomain.workers.dev';
   const TIMEOUT_MS = 10000;
